@@ -1,0 +1,64 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.box1 {
+   background-color: grey;
+   margin: auto;
+   text-align: center;
+   padding: 30px;
+   border: 2px solid black;
+   width: 70%;
+   height: 625px;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+img {
+    width: 20%;
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    
+}
+
+td , th {
+    border: 1px solid  black;
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.white {
+    background-color: white;
+    color: blue;
+}
+
+.pink {
+    background-color: purple;
+    color: rgb(223, 223, 88);
+}
+
+.green {
+    background-color: green;
+    color: orange;
+}
+
+.aqua {
+    background-color: aqua;
+    color: grey;
+}
